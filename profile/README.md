@@ -5,7 +5,6 @@ Amazing projects require amazing people, that's why Numelon Open Source is on Gi
 
 ## Get involved in greatness
 We welcome those who would like to help our software development and the open source world with open hands. 🤗
-
 - [View Numelon's Open Source Projects](https://github.com/orgs/numelon-oss/repositories)
 - [Talk with the community about our projects](https://discord.gg/)
 
