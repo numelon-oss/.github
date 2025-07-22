@@ -1,5 +1,5 @@
 # 🍉 Numelon Open Source
-[![Numelon Thumbnail Card](https://wcdn.numelon.com/branding/thumb-card.png)](https://numelon.com)
+[![Numelon Thumbnail Card](https://wcdn.numelon.com/branding/2024/thumb-card.png)](https://numelon.com)
 
 Amazing projects require amazing people, that's why Numelon Open Source is on GitHub. Here, we work on our open-source projects and allow others to contribute too.
 
